@@ -1,4 +1,4 @@
-## Train Management System Readme
+## Train Management System
 
 This Train Management System is a console-based application developed in C. It allows users to manage train information, book and cancel tickets, calculate fares, and maintain passenger lists. Here's a brief overview of its features:
 
