@@ -14,5 +14,7 @@ This Train Management System is a handy tool for managing train-related operatio
 
 ### Curators:
 Suraj R S
+
 Surabhi Srinivas
+
 Srishti K P
